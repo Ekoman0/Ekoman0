@@ -1,5 +1,6 @@
 # 💫 About Me:
 🧑‍🎓 I am currently a computer engineering student at Kutahya Dumlupinar University.
+
 💻 I am developing a game on unity.
 
 ## 🌐 Socials:
